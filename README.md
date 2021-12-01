@@ -17,4 +17,4 @@ A Web Application used to tranfer virtual money between multiple users and also 
 
 -> Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
--> Website Link : file:///C:/Users/hcl/Desktop/Banking-system-main/Basic%20Banking%20System/main.html
+-> Website Link : http://127.0.0.1:5501/main.html
